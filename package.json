@@ -1,8 +1,11 @@
 {
-  "name": "bot",
-  "description": "Dark-bot",
-  "version": "1.0.0",
-  "engines": {
-    "node": "8.9.4"
+  "name": "bot"
+  "version": "1.0.0"
+  "description": "Dark-bot"
+  "main": "bot.js"
+  "author": "Me"
+  "license": "ISC"
+  "dependencies": {
+    "discord.js": "^11.2.1"
   }
 }
