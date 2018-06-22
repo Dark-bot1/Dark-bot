@@ -12524,4 +12524,4 @@ message.member.addRole(message.guild.roles.find("name", "100"));
 });
 
 
-client.login('NDM3OTUwNzA4MzM2MDMzODAy.DcCgqg.dBVewK60yJA4FBr4zodQ3_4eHG8');
+client.login(process.env.BOT_TOKEN);
